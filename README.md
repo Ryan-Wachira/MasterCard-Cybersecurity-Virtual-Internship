@@ -37,4 +37,4 @@ During the MasterCard Cybersecurity Virtual Internship, I worked as an analyst w
 ## Certification
 I successfully completed the MasterCard Cybersecurity Virtual Internship. You can view my certificate below:
 
-![Return Path](Certificate.png)
+![Return Path](Certificate.PNG)
